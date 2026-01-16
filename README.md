@@ -28,7 +28,7 @@ API Architecture: Designing and consuming robust REST APIs using Axios for optim
 
 NoSQL Modeling: Architecting flexible data schemas in MongoDB to handle high-frequency data operations.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adilzhanshukenov&theme=tokyonight)
+![GitHub Streak](https://github-readme-stats-sigma-five.vercel.app/api?username=adilzhanshukenov&show_icons=true&theme=tokyonight&count_private=true)
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/adilzhanshukenov/)
 
