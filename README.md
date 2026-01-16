@@ -30,6 +30,8 @@ NoSQL Modeling: Architecting flexible data schemas in MongoDB to handle high-fre
 
 ![GitHub Streak](https://github-readme-stats-sigma-five.vercel.app/api?username=adilzhanshukenov&show_icons=true&theme=tokyonight&count_private=true)
 
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/adilzhanshukenov/)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adilzhanshukenov&layout=compact&theme=tokyonight)
+
+LinkedIn: [adilzhanshukenov](https://www.linkedin.com/in/adilzhanshukenov/)
 
 Email: [shukenovadilzhan@gmail.com](shukenovadilzhan@gmail.com)
